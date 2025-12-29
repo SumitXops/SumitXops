@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!!! I’m Sumit Kumar a BCA student specializing in Cloud Computing, passionate about exploring how technology shapes the future of business and innovation.<br><br>Currently building my foundation in cloud infrastructure, and modern digital systems with a strong curiosity to keep learning, experimenting, and applying what I know.<br><br>My growing skill set includes:<br>☁️ Cloud Platforms & Virtualization<br>💻 Programming & Problem-Solving<br>⚡ Emerging Tech<br>📈 Teamwork & Continuous Learning<br><br>I believe every project is a chance to learn, contribute, and grow. With each step, I aim to sharpen my technical skills and bring fresh energy into the tech space.<br><br>Always open to connect, share knowledge, and explore opportunities to collaborate.
+Hi!!! I’m Sumit Kumar, a BCA student specializing in Cloud Computing, passionate about exploring how technology shapes the future of business and innovation.<br><br>Currently building my foundation in cloud infrastructure, and modern digital systems with a strong curiosity to keep learning, experimenting, and applying what I know.<br><br>My growing skill set includes:<br>☁️ Cloud Platforms & Virtualization<br>💻 Programming & Problem-Solving<br>⚡ Emerging Tech<br>📈 Teamwork & Continuous Learning<br><br>I believe every project is a chance to learn, contribute, and grow. With each step, I aim to sharpen my technical skills and bring fresh energy into the tech space.<br><br>Always open to connect, share knowledge, and explore opportunities to collaborate.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ Hi!!! I’m Sumit Kumar a BCA student specializing in Cloud Computing, passionat
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sumitsharma302005&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
